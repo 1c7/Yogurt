@@ -64,6 +64,8 @@ In it's core, it just a really simple CURD serverless app
 (fill this)  
 
 ## Alternative
+Order doesn't matter, I just copy&paste the things I found.  
+
 * https://snipeitapp.com/
 * https://www.pfind.com/alternatives/gumroad
 * https://selz.com (14 day Free Trial, then $29/mo)
@@ -80,16 +82,22 @@ In it's core, it just a really simple CURD serverless app
 * https://news.ycombinator.com/item?id=14538351
 * https://www.joshofalltrades.me/selling-online-gumroad-vs-selz-vs-sendowl-vs-sellfy/
 * http://keydock.app/
+* https://kintu.co/digital-products-stripe/
+* https://www.reddit.com/r/startups/comments/7133zv/platform_for_selling_desktop_software/
+* https://sprout24.com/gumroad-alternatives/
 
 ## Why build this
 1. I can't use Paddle or Gumroad
-  (well, not exactly "can't use", I use Gumroad to charge people in the U.S. EU, western world in general (have credit card), And I need to use Xorpay for China market)
+
+Well, not exactly "can't use", I use Gumroad to charge people in the U.S. EU, western world in general (have credit card), And I need to use Xorpay for China market
 
 2. I want something **Simple** 
-  (I don't want deal with existig solution that use C++ or Java or need to deploy to server with a over complicated Web UI)
+
+I don't want deal with existig solution that use C++ or Java or need to deploy to server with a over complicated Web UI
 
 3. I want something **Cheap**
-  (A lot of solution are charged in $dollar, which is not cheap for people who are not in the U.S or EU (People in other part of the world are not making money in Dollar, Take account of exchange rate, those are pretty expensive)
+
+A lot of solution are charged in $dollar, which is not cheap for people who are not in the U.S or EU (People in other part of the world are not making money in Dollar, Take account of exchange rate, those are pretty expensive
 
 
 ## License
