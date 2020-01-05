@@ -1,4 +1,4 @@
-# Milk - A Extremely Simple "Software Licensing API" that use Serverless     
+# Yogurt - A Extremely Simple "Software Licensing API" that use Serverless     
 (Still work in progress, like 5% done, you can  read this README first see if you like it)    
 
 Genereate & Verify License code, that's all.  
