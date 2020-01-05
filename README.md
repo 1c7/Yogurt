@@ -1,5 +1,6 @@
 # Milk - a extremely simple "License Management tool" that use Serverless     
-I built this for my desktop app, and just open source aftertward.      
+Genereate & Verify License code, that's all.  
+(License code like 111111-222222-333333)
 
 ## It's for 
 * Sell Desktop app
@@ -62,10 +63,13 @@ In it's core, it just a really simple CURD serverless app
 * https://payhip.com
 * https://www.e-junkie.com/
 
-### Why I build this
-1. I can't use Paddle / Gumroad
-2. I need something simple (I don't want deal with existig solution that use C++ or Java or need to deploy to server)
-3. I don't want spend too much time & money
+## Why build this
+1. I can't use Paddle or Gumroad
+  (well, not exactly "can't use", I use Gumroad for people in the U.S. EU, western world in general (have credit card), And I need to use Xorpay for China market)
+
+2. I want something **Simple** (I don't want deal with existig solution that use C++ or Java or need to deploy to server with a over complicated Web UI)
+
+3. I want something **Cheap**
 
 
 ## License
