@@ -1,4 +1,6 @@
 # Milk - a extremely simple "License Management tool" that use Serverless     
+(Still work in progress, like 5% done)    
+
 Genereate & Verify License code, that's all.  
 (License code like 111111-222222-333333)
 
@@ -10,13 +12,20 @@ Genereate & Verify License code, that's all.
 ## It's not for
 * Web SaaS app that charge $x/month (recurring payment)
 
-## If you can use Gumroad or Paddle. you don't need this.  
+## If you can use Gumroad or Paddle. you probably don't need this.  
 Gumroad have all these license genereate tool, very convenient.  
 Paddle is the same.  
 This is for payment provider that doesn't support "license code generate and verify"   
 
+## Pro
+* Simple & Cheap  
+
+## Con:
+* No beautiful Web UI 
+* You may need to learn some Serverless concept (Which cost time)
+
 ## Tech Stack
-* serverless.com
+* serverless
 * AWS 
 
 ## Usage Scenario (very niche)
@@ -62,6 +71,12 @@ In it's core, it just a really simple CURD serverless app
 * Paddle
 * https://payhip.com
 * https://www.e-junkie.com/
+* https://discuss.bootstrapped.fm/t/gumroad-alternatives/5103
+* https://news.ycombinator.com/item?id=15453317
+* https://www.sendowl.com/features (30 day free trial, then $9/mo)
+* https://keygen.sh/ (14-day free trial, then $39/mo, too expensive)
+* https://news.ycombinator.com/item?id=14538351
+* https://www.joshofalltrades.me/selling-online-gumroad-vs-selz-vs-sendowl-vs-sellfy/
 
 ## Why build this
 1. I can't use Paddle or Gumroad
