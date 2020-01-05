@@ -2,9 +2,12 @@
 I built this for my desktop app, and just open source aftertward.      
 
 ## It's for 
-* Desktop app
-* One-off purchase
+* Sell Desktop app
+* **One-off purchase**
 * License code generate & verify API (total of 2 API endpoint)
+
+## It's not for
+* Web SaaS app that charge $x/month (recurring payment)
 
 ## If you can use Gumroad or Paddle. you don't need this.  
 Gumroad have all these license genereate tool, very convenient.  
@@ -22,10 +25,10 @@ This is for payment provider that doesn't support "license code generate and ver
 4. You don't want spend a lot of time(2-7 days maybe) thinking and building a license management system
 
 ## Why this
-1. Simple
+1. Simple   
   ("Simple" in some way, if you are new to serverless, there are still new concept you need to know)
-2. Cheap
-  Cheaper than a dedicate server that run 24x7 (I don't even want pay for a $5 dollar Digital Ocean Droplet, Problem is not the money, I just don't want maintain it)
+2. Cheap   
+  (Cheaper than a dedicate server that run 24x7 (I don't even want pay for a $5 dollar Digital Ocean Droplet, Problem is not the money, I just don't want maintain it)
 
 ## How it work (user flow)
 1. When user want purchase your one-off software, ask user for Email address (so user can receive license code via email)
