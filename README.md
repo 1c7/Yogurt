@@ -1,5 +1,5 @@
-# Milk - a extremely simple "License Management tool" that use Serverless     
-(Still work in progress, like 5% done)    
+# Milk - A Extremely Simple "Software Licensing API" that use Serverless     
+(Still work in progress, like 5% done, you can  read this README first see if you like it)    
 
 Genereate & Verify License code, that's all.  
 (License code like 111111-222222-333333)
@@ -18,7 +18,8 @@ Paddle is the same.
 This is for payment provider that doesn't support "license code generate and verify"   
 
 ## Pro
-* Simple & Cheap  
+* Simple
+* Cheap  
 
 ## Con:
 * No beautiful Web UI 
@@ -75,16 +76,20 @@ In it's core, it just a really simple CURD serverless app
 * https://news.ycombinator.com/item?id=15453317
 * https://www.sendowl.com/features (30 day free trial, then $9/mo)
 * https://keygen.sh/ (14-day free trial, then $39/mo, too expensive)
+* https://keygen.sh/compare/
 * https://news.ycombinator.com/item?id=14538351
 * https://www.joshofalltrades.me/selling-online-gumroad-vs-selz-vs-sendowl-vs-sellfy/
+* http://keydock.app/
 
 ## Why build this
 1. I can't use Paddle or Gumroad
-  (well, not exactly "can't use", I use Gumroad for people in the U.S. EU, western world in general (have credit card), And I need to use Xorpay for China market)
+  (well, not exactly "can't use", I use Gumroad to charge people in the U.S. EU, western world in general (have credit card), And I need to use Xorpay for China market)
 
-2. I want something **Simple** (I don't want deal with existig solution that use C++ or Java or need to deploy to server with a over complicated Web UI)
+2. I want something **Simple** 
+  (I don't want deal with existig solution that use C++ or Java or need to deploy to server with a over complicated Web UI)
 
 3. I want something **Cheap**
+  (A lot of solution are charged in $dollar, which is not cheap for people who are not in the U.S or EU (People in other part of the world are not making money in Dollar, Take account of exchange rate, those are pretty expensive)
 
 
 ## License
