@@ -37,7 +37,7 @@ and you saw it, you can just delete that line. so now that's invalid.
 In it's core, it just a really simple CURD serverless app    
 
 ## How to use this.  
+(fill this)  
 
 ## License for this code
-MIT.  
-which mean do whatever you want.   
+MIT
