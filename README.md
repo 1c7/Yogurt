@@ -1,6 +1,5 @@
-# Serverless License Management
-Here is a really simple license management
-I built this for my desktop app, and just open source aftertward.     
+# Milk - a simple Serverless License Management   
+I built this for my desktop app, and just open source aftertward.      
 
 ## It's for 
 * Desktop app
@@ -23,9 +22,9 @@ This is for payment provider that doesn't support "license code generate and ver
 4. You don't want spend a lot of time(2-7 days maybe) thinking and building a license management system
 
 ## Why using this
-1. It get the job done
+1. When you can't use Paddle or Gumroad for whatever reason
 1. Simple
-2. Cheap
+2. Cheap, Cheaper than a dedicate server that run 24x7 (I don't even want pay for a $5 dollar Digital Ocean Droplet, Problem is not the money, I just don't want maintain it)
 
 ## How it work
 1. When user want purchase your one-off software, ask user for Email address (so user can receive license code via email)
@@ -39,16 +38,15 @@ This is for payment provider that doesn't support "license code generate and ver
 9. Email + License code, it kinda like "username" and "password"
 10. Your Desktop app send request to this "Serverless License Management", if this combination of "Email + License code" exists. this License is valid!
 
-### Further more
+## Further more
 If people trying to abuse this, share their "Email + License code" combination online for free.  
 and you saw it, you can just delete that line. so now that's invalid.  
 
-### Conclusion
+## Conclusion
 In it's core, it just a really simple CURD serverless app    
 
 ## How to use this.  
 (fill this)  
-
 
 ## Alternative
 * https://snipeitapp.com/
@@ -62,9 +60,9 @@ In it's core, it just a really simple CURD serverless app
 
 ### Why I build this
 1. I can't use Paddle / Gumroad
-2. I need something simple
-3. I don't even want spend too much time & money
+2. I need something simple (I don't want deal with existig solution that use C++ or Java)
+3. I don't want spend too much time & money
 
 
-## License for this code
+## License
 MIT
